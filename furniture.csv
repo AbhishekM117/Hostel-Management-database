@@ -1,0 +1,17 @@
+"furniture_id";"furniture_type";"room_id";"hostel_bulding_no"
+301;"bed";101;1001
+302;"bed";201;1002
+303;"bed";301;1003
+304;"bed";401;1004
+305;"bed";101;1004
+306;"bed";201;1003
+307;"bed";301;1002
+308;"bed";401;1001
+401;"study table";101;1001
+402;"study table";201;1002
+403;"study table";301;1003
+404;"study table";401;1004
+501;"wadrobe";101;1004
+502;"wadrobe";201;1003
+503;"wadrobe";301;1002
+504;"wadrobe";401;1001
